@@ -1,0 +1,25 @@
+{
+  "key" : "sun",
+  "sons" : [ {
+    "key" : "mercury",
+    "sons" : [ ]
+  }, {
+    "key" : "venus",
+    "sons" : [ ]
+  }, {
+    "key" : "earth",
+    "sons" : [ {
+      "key" : "moon",
+      "sons" : [ ]
+    } ]
+  }, {
+    "key" : "mars",
+    "sons" : [ {
+      "key" : "fobos",
+      "sons" : [ ]
+    }, {
+      "key" : "deimos",
+      "sons" : [ ]
+    } ]
+  } ]
+}
